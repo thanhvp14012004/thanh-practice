@@ -1,2 +1,2 @@
-import {userAdmin} from "./23.09.ts";
+import {userAdmin} from "./b.ts";
 console.log ("Tên đăng nhập là", userAdmin);
